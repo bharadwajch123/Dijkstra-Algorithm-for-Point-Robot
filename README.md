@@ -1,7 +1,7 @@
 # Djikstra-Algorithm-for-Point-Robot
-# A point robot traverses in an obstacle map to find the goal from a starting point without colliding with the obstacles
+ A point robot traverses in an obstacle map to find the goal from a starting point without colliding with the obstacles
 
-# ################ Steps to run my code ############
+# Steps to run my code 
 
 # User Dependencies:
  -> Python 3.9
