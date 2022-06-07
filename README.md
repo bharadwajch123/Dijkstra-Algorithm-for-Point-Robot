@@ -1,8 +1,6 @@
 # Dijkstra-Algorithm-for-Point-Robot
  A point robot traverses in an obstacle map to find the goal from a starting point without colliding with the obstacles
 
-# Steps to run my code 
-
 # User Dependencies:
  - Python 3.9
  - IDE to run the program (I used VSCode)
@@ -10,8 +8,9 @@
 
 # Instructions to run:
  - Open an IDE
- - Navigate to the folder where the .py file exists
- - Upon running the code, the user will be prompted to enter coordinates, please have one space between the values.
+ - Navigate to the folder/directory where the .py file exists
+ - Upon running the code, the user will be prompted 
+    - to enter coordinates, please have one space between the values.
  - To visualize the exploration and path, please uncomment the plt.pause() on line 300
  - The visuzaliztion using matplotlib is a bit slower so, to view the result, just run it.
  - It will take some time to generate the plot. Thank you for being Patient.
